@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+    <xsd:element name="commenti">
+        <xsd:complexType> 
+            <xsd:sequence>
+                <xsd:element ref="commento" maxOccurs="unbounded" />
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+
+    <xsd:element name="commento">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element ref="idUtente" />
+                <xsd:element ref="idDiscussione" />
+                <xsd:element ref="testo" />
+                <xsd:element ref="dataOra" />
+                <xsd:element ref="votoUtilitaMedia" />
+                <xsd:element ref="numVotiUtilita" />  
+                <xsd:element ref="votoAffinitaMedia" />
+                <xsd:element ref="numVotiAffinita" />
+            </xsd:sequence>
+
+            <xsd:attribute name="id" type="xsd:integer" use="id" />
+        </xsd:complexType>
+    </xsd:element>
+
+    <xsd:element name="idUtente" type="xsd:integer" />
+    <xsd:element name="idDiscussione" type="xsd:integer" />
+    <xsd:element name="testo" type="xsd:string" />
+    <xsd:element name="dataOra" type="xsd:dateTime" />
+    <xsd:element name="votoUtilitaMedia" type="xsd:integer">
+        <xsd:simpleType>
+            <xsd:restriction base="xsd:integer">
+                <xsd:minInclusive value="1" />
+                <xsd:maxInclusive value="5" />
+            </xsd:restriction>
+        </xsd:simpleType>
+    </xsd:element>
+    <xsd:element name="numVotiUtilita" type="xsd:integer" />
+    <xsd:element name="votoAffinitaMedia" type="xsd:integer">
+    <xsd:simpleType>
+            <xsd:restriction base="xsd:integer">
+                <xsd:minInclusive value="1" />
+                <xsd:maxInclusive value="5" />
+            </xsd:restriction>
+        </xsd:simpleType>
+    </xsd:element>
+    <xsd:element name="numVotiAffinita" type="xsd:integer" />
+
+</xsd:schema>

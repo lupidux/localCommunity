@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autorizzazioni xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="autorizzazioni.xsd">
+    <autorizzazione id="1">
+        <idUtente>1</idUtente>
+        <idResponsabile>3</idResponsabile>
+        <idDiscussione>1</idDiscussione>
+        <esito>positivo</esito>
+        <dataOra>2022-01-10T23:11:34</dataOra>
+    </autorizzazione>
+    <autorizzazione id="2">
+        <idUtente>18</idUtente>
+        <idResponsabile>15</idResponsabile>
+        <idDiscussione>2</idDiscussione>
+        <esito>positivo</esito>
+        <dataOra>2022-02-22T07:13:16</dataOra>
+    </autorizzazione>
+    <autorizzazione id="3">
+        <idUtente>12</idUtente>
+        <idResponsabile>15</idResponsabile>
+        <idDiscussione>2</idDiscussione>
+        <esito>positivo</esito>
+        <dataOra>2022-02-22T07:31:30</dataOra>
+    </autorizzazione>
+    <autorizzazione id="4">
+        <idUtente>17</idUtente>
+        <idResponsabile>15</idResponsabile>
+        <idDiscussione>2</idDiscussione>
+        <esito>positivo</esito>
+        <dataOra>2022-02-22T06:30:03</dataOra>
+    </autorizzazione>
+    <autorizzazione id="5">
+        <idUtente>17</idUtente>
+        <idResponsabile>7</idResponsabile>
+        <idDiscussione>3</idDiscussione>
+        <esito>positivo</esito>
+        <dataOra>2022-02-22T16:02:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="6">
+        <idUtente>13</idUtente>
+        <idResponsabile>7</idResponsabile>
+        <idDiscussione>3</idDiscussione>
+        <esito>positivo</esito>
+        <dataOra>2022-02-23T09:10:56</dataOra>
+    </autorizzazione>
+    <autorizzazione id="7">
+        <idUtente>12</idUtente>
+        <idResponsabile>7</idResponsabile>
+        <idDiscussione>3</idDiscussione>
+        <esito>positivo</esito>
+        <dataOra>2022-02-23T09:11:56</dataOra>
+    </autorizzazione>
+    <autorizzazione id="8">
+        <idUtente>9</idUtente>
+        <idResponsabile>7</idResponsabile>
+        <idDiscussione>3</idDiscussione>
+        <esito>positivo</esito>
+        <dataOra>2022-02-23T09:13:56</dataOra>
+    </autorizzazione>
+    <autorizzazione id="9">
+        <idUtente>8</idUtente>
+        <idResponsabile>7</idResponsabile>
+        <idDiscussione>3</idDiscussione>
+        <esito>positivo</esito>
+        <dataOra>2022-02-23T09:14:56</dataOra>
+    </autorizzazione>
+    <autorizzazione id="10">
+        <idUtente>4</idUtente>
+        <idResponsabile>2</idResponsabile>
+        <idDiscussione>4</idDiscussione>
+        <esito>positivo</esito>
+        <dataOra>2022-02-22T09:12:13</dataOra>
+    </autorizzazione>
+    <autorizzazione id="11">
+        <idUtente>19</idUtente>
+        <idResponsabile>2</idResponsabile>
+        <idDiscussione>4</idDiscussione>
+        <esito>positivo</esito>
+        <dataOra>2022-02-22T09:23:26</dataOra>
+    </autorizzazione>
+    <autorizzazione id="12">
+        <idUtente>7</idUtente>
+        <idResponsabile>2</idResponsabile>
+        <idDiscussione>4</idDiscussione>
+        <esito>positivo</esito>
+        <dataOra>2022-02-22T08:13:26</dataOra>
+    </autorizzazione>
+    <autorizzazione id="13">
+        <idUtente>5</idUtente>
+        <idResponsabile>2</idResponsabile>
+        <idDiscussione>4</idDiscussione>
+        <esito>positivo</esito>
+        <dataOra>2022-02-22T08:33:26</dataOra>
+    </autorizzazione>
+    <autorizzazione id="14">
+        <idUtente>5</idUtente>
+        <idResponsabile>11</idResponsabile>
+        <idDiscussione>5</idDiscussione>
+        <esito>positivo</esito>
+        <dataOra>2022-02-22T15:46:26</dataOra>
+    </autorizzazione>
+    <autorizzazione id="15">
+        <idUtente>4</idUtente>
+        <idResponsabile>11</idResponsabile>
+        <idDiscussione>5</idDiscussione>
+        <esito>positivo</esito>
+        <dataOra>2022-02-22T14:46:26</dataOra>
+    </autorizzazione>
+    <autorizzazione id="16">
+        <idUtente>7</idUtente>
+        <idResponsabile>4</idResponsabile>
+        <idDiscussione>6</idDiscussione>
+        <esito>positivo</esito>
+        <dataOra>2022-02-22T19:57:38</dataOra>
+    </autorizzazione>
+    <autorizzazione id="17">
+        <idUtente>9</idUtente>
+        <idResponsabile>4</idResponsabile>
+        <idDiscussione>6</idDiscussione>
+        <esito>positivo</esito>
+        <dataOra>2022-02-22T20:36:10</dataOra>
+    </autorizzazione>
+    <autorizzazione id="18">
+        <idUtente>8</idUtente>
+        <idResponsabile>4</idResponsabile>
+        <idDiscussione>6</idDiscussione>
+        <esito>positivo</esito>
+        <dataOra>2022-02-22T20:59:47</dataOra>
+    </autorizzazione>
+    <autorizzazione id="19">
+        <idUtente>1</idUtente>
+        <idResponsabile>4</idResponsabile>
+        <idDiscussione>6</idDiscussione>
+        <esito>positivo</esito>
+        <dataOra>2022-02-22T19:39:47</dataOra>
+    </autorizzazione>
+    <autorizzazione id="20">
+        <idUtente>20</idUtente>
+        <idResponsabile>4</idResponsabile>
+        <idDiscussione>6</idDiscussione>
+        <esito>positivo</esito>
+        <dataOra>2022-02-22T19:55:47</dataOra>
+    </autorizzazione>
+    <autorizzazione id="21">
+        <idUtente>13</idUtente>
+        <idResponsabile>12</idResponsabile>
+        <idDiscussione>8</idDiscussione>
+        <esito>positivo</esito>
+        <dataOra>2022-02-22T15:36:52</dataOra>
+    </autorizzazione>
+    <autorizzazione id="22">
+        <idUtente>20</idUtente>
+        <idResponsabile>12</idResponsabile>
+        <idDiscussione>8</idDiscussione>
+        <esito>positivo</esito>
+        <dataOra>2022-02-22T16:13:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="23">
+        <idUtente>19</idUtente>
+        <idResponsabile>12</idResponsabile>
+        <idDiscussione>8</idDiscussione>
+        <esito>positivo</esito>
+        <dataOra>2022-02-22T16:01:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="24">
+        <idUtente>18</idUtente>
+        <idResponsabile>12</idResponsabile>
+        <idDiscussione>8</idDiscussione>
+        <esito>positivo</esito>
+        <dataOra>2022-02-22T16:02:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="25">
+        <idUtente>17</idUtente>
+        <idResponsabile>12</idResponsabile>
+        <idDiscussione>8</idDiscussione>
+        <esito>positivo</esito>
+        <dataOra>2022-02-22T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="26">
+        <idUtente>12</idUtente>
+        <idResponsabile>3</idResponsabile>
+        <idDiscussione>1</idDiscussione>
+        <esito></esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="27">
+        <idUtente>13</idUtente>
+        <idResponsabile>3</idResponsabile>
+        <idDiscussione>1</idDiscussione>
+        <esito></esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="28">
+        <idUtente>17</idUtente>
+        <idResponsabile>3</idResponsabile>
+        <idDiscussione>1</idDiscussione>
+        <esito></esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="29">
+        <idUtente>18</idUtente>
+        <idResponsabile>3</idResponsabile>
+        <idDiscussione>1</idDiscussione>
+        <esito></esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="30">
+        <idUtente>19</idUtente>
+        <idResponsabile>3</idResponsabile>
+        <idDiscussione>1</idDiscussione>
+        <esito></esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="31">
+        <idUtente>7</idUtente>
+        <idResponsabile>15</idResponsabile>
+        <idDiscussione>2</idDiscussione>
+        <esito>negativo</esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="32">
+        <idUtente>7</idUtente>
+        <idResponsabile>15</idResponsabile>
+        <idDiscussione>2</idDiscussione>
+        <esito></esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="33">
+        <idUtente>8</idUtente>
+        <idResponsabile>15</idResponsabile>
+        <idDiscussione>2</idDiscussione>
+        <esito></esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="34">
+        <idUtente>13</idUtente>
+        <idResponsabile>15</idResponsabile>
+        <idDiscussione>2</idDiscussione>
+        <esito>negativo</esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="35">
+        <idUtente>13</idUtente>
+        <idResponsabile>15</idResponsabile>
+        <idDiscussione>2</idDiscussione>
+        <esito></esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="36">
+        <idUtente>20</idUtente>
+        <idResponsabile>7</idResponsabile>
+        <idDiscussione>3</idDiscussione>
+        <esito></esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="37">
+        <idUtente>19</idUtente>
+        <idResponsabile>7</idResponsabile>
+        <idDiscussione>3</idDiscussione>
+        <esito></esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="38">
+        <idUtente>18</idUtente>
+        <idResponsabile>7</idResponsabile>
+        <idDiscussione>3</idDiscussione>
+        <esito></esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="39">
+        <idUtente>5</idUtente>
+        <idResponsabile>7</idResponsabile>
+        <idDiscussione>3</idDiscussione>
+        <esito></esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="40">
+        <idUtente>4</idUtente>
+        <idResponsabile>7</idResponsabile>
+        <idDiscussione>3</idDiscussione>
+        <esito></esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="41">
+        <idUtente>18</idUtente>
+        <idResponsabile>2</idResponsabile>
+        <idDiscussione>4</idDiscussione>
+        <esito></esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="42">
+        <idUtente>13</idUtente>
+        <idResponsabile>2</idResponsabile>
+        <idDiscussione>4</idDiscussione>
+        <esito></esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="43">
+        <idUtente>9</idUtente>
+        <idResponsabile>2</idResponsabile>
+        <idDiscussione>4</idDiscussione>
+        <esito></esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="44">
+        <idUtente>8</idUtente>
+        <idResponsabile>2</idResponsabile>
+        <idDiscussione>4</idDiscussione>
+        <esito></esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="45">
+        <idUtente>7</idUtente>
+        <idResponsabile>2</idResponsabile>
+        <idDiscussione>4</idDiscussione>
+        <esito>negativo</esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="46">
+        <idUtente>18</idUtente>
+        <idResponsabile>11</idResponsabile>
+        <idDiscussione>5</idDiscussione>
+        <esito></esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="47">
+        <idUtente>9</idUtente>
+        <idResponsabile>11</idResponsabile>
+        <idDiscussione>5</idDiscussione>
+        <esito></esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="48">
+        <idUtente>7</idUtente>
+        <idResponsabile>11</idResponsabile>
+        <idDiscussione>5</idDiscussione>
+        <esito></esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="49">
+        <idUtente>5</idUtente>
+        <idResponsabile>11</idResponsabile>
+        <idDiscussione>5</idDiscussione>
+        <esito></esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="50">
+        <idUtente>1</idUtente>
+        <idResponsabile>11</idResponsabile>
+        <idDiscussione>5</idDiscussione>
+        <esito></esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="51">
+        <idUtente>12</idUtente>
+        <idResponsabile>4</idResponsabile>
+        <idDiscussione>6</idDiscussione>
+        <esito>negativo</esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="52">
+        <idUtente>12</idUtente>
+        <idResponsabile>4</idResponsabile>
+        <idDiscussione>6</idDiscussione>
+        <esito></esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="53">
+        <idUtente>17</idUtente>
+        <idResponsabile>4</idResponsabile>
+        <idDiscussione>6</idDiscussione>
+        <esito></esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="54">
+        <idUtente>19</idUtente>
+        <idResponsabile>4</idResponsabile>
+        <idDiscussione>6</idDiscussione>
+        <esito></esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="55">
+        <idUtente>20</idUtente>
+        <idResponsabile>4</idResponsabile>
+        <idDiscussione>6</idDiscussione>
+        <esito>negativo</esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="56">
+        <idUtente>4</idUtente>
+        <idResponsabile>3</idResponsabile>
+        <idDiscussione>7</idDiscussione>
+        <esito></esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="57">
+        <idUtente>12</idUtente>
+        <idResponsabile>3</idResponsabile>
+        <idDiscussione>7</idDiscussione>
+        <esito></esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="58">
+        <idUtente>17</idUtente>
+        <idResponsabile>3</idResponsabile>
+        <idDiscussione>7</idDiscussione>
+        <esito></esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="59">
+        <idUtente>19</idUtente>
+        <idResponsabile>3</idResponsabile>
+        <idDiscussione>7</idDiscussione>
+        <esito></esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="60">
+        <idUtente>20</idUtente>
+        <idResponsabile>3</idResponsabile>
+        <idDiscussione>7</idDiscussione>
+        <esito></esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="61">
+        <idUtente>4</idUtente>
+        <idResponsabile>12</idResponsabile>
+        <idDiscussione>8</idDiscussione>
+        <esito>negativo</esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="62">
+        <idUtente>4</idUtente>
+        <idResponsabile>12</idResponsabile>
+        <idDiscussione>8</idDiscussione>
+        <esito></esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="63">
+        <idUtente>17</idUtente>
+        <idResponsabile>12</idResponsabile>
+        <idDiscussione>8</idDiscussione>
+        <esito>negativo</esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="64">
+        <idUtente>19</idUtente>
+        <idResponsabile>12</idResponsabile>
+        <idDiscussione>8</idDiscussione>
+        <esito>negativo</esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+    <autorizzazione id="65">
+        <idUtente>20</idUtente>
+        <idResponsabile>12</idResponsabile>
+        <idDiscussione>8</idDiscussione>
+        <esito>negativo</esito>
+        <dataOra>2022-02-21T16:03:32</dataOra>
+    </autorizzazione>
+</autorizzazioni>

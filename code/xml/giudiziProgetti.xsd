@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+    <xsd:element name="giudiziProgetti">
+        <xsd:complexType> 
+            <xsd:sequence>
+                <xsd:element ref="giudizioProgetto" maxOccurs="unbounded" />
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+
+    <xsd:element name="giudizioProgetto">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element ref="idProgetto" />
+                <xsd:element ref="idUtente" />
+                <xsd:element ref="voto" />
+                <xsd:element ref="testo" />               
+            </xsd:sequence>
+
+            <xsd:attribute name="id" type="xsd:integer" use="id" />
+        </xsd:complexType>
+    </xsd:element>
+
+    <xsd:element name="idProgetto" type="xsd:integer" />
+    <xsd:element name="idUtente" type="xsd:integer" />
+    <xsd:element name="voto" type="xsd:integer">
+        <xsd:simpleType>
+            <xsd:restriction base="xsd:integer">
+                <xsd:minInclusive value="1" />
+                <xsd:maxInclusive value="10" />
+            </xsd:restriction>
+        </xsd:simpleType>
+    </xsd:element>
+    <xsd:element name="testo" type="xsd:string" />  
+
+</xsd:schema>

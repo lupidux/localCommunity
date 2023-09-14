@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<steps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="steps.xsd">
+    <step id="1">
+        <idProgetto>1</idProgetto>
+        <testo>           
+            What’s inside?
+
+            We learned a lot from working on the original PinePhone. Over the past two years we painstakingly collected and analyzed your feedback and explored all avenues for hardware improvements. The PinePhone Pro is the end result of this journey. It is powered by a Rockchip hexa-core SoC operating at 1.5GHz, and ships paired with 4GB of dual-channel LPDDR4 RAM as well as 128GB of internal eMMC flash storage. It features a high-fidelity 13MP main camera sensor and a 5MP front-facing camera.
+
+            We worked closely with Rockchip’s engineering team to fine-tune the SoC’s performance so that it meets the necessary thermal and battery-consumption envelopes. The result of this cooperation is the RK3399S – a RK3399 variant made specifically for the PinePhone Pro. Rockchip’s team was also instrumental in enabling the PinePhone Pro’s suspend state, which allows the smartphone to receive calls and SMS messages while preserving battery.
+
+            Hardware privacy dip switches for the cameras, the microphone, WiFi and BT, headphone jack (enabling UART) and the LTE modem (including GPS) are accessible under the back cover, just as on the original PinePhone.
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="2">
+        <idProgetto>1</idProgetto>
+        <testo>
+            What’s the outside like?
+
+            We wanted the PinePhone Pro to reflect its status as a pro-grade device while maintaining perfect compatibility with all existing PinePhone peripherals. The PinePhone Pro uses the same pogo-pin systems and back cover attachment as the original PinePhone, making it compatible with all existing add-ons. The keyboard, PineDio LoRa, fingerprint reader and wireless charging cases will all work with the PinePhone Pro. 
+
+            The PinePhone Pro features a vibrant in-cell IPS display covered with Corning Gorilla Glass 4™  with an oleophobic coating, offering superior scratch resistance and image clarity. The camera is covered by Corning Gorilla Glass 4™ and protected by an elevated bezel, similar to the one found on the original PinePhone.
+
+            The chassis is slightly thicker (~2mm) than the original PinePhone’s. Proportions of the original design were altered to accommodate the new display and to allow for improved heat dissipation. The coating on the back of the PinePhone Pro has been given a premium feel and engineered to minimize oily fingerprints. We think you’ll be pleased with the end-result.
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="3">
+        <idProgetto>1</idProgetto>
+        <testo>
+            Who is it for?
+
+            Contemporary mobile Linux operating systems have a way to go before they can be considered true alternatives to Android or iOS. While mobile Linux isn’t in a state that could satisfy most mainstream electronics consumers, we recognize that a sizable portion of our community is ready to make the jump to a Linux-only smartphone today. The PinePhone Pro has the raw horsepower to be your daily driver, granted you’re ready to accept the current software limitations. 
+
+            In a nutshell: if you are an existing PinePhone owner and your only wish is for the device to be more powerful and refined, then the PinePhone Pro is for you.
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="4">
+        <idProgetto>1</idProgetto>
+        <testo>     
+            Who isn’t it for?
+
+            We’re not in the business of selling empty promises – a much faster mainline Linux smartphone won’t make the existing operating systems more refined, nor will it magically spawn software replacements for your iOS or Android applications. There is a long road ahead of us, all of us, and it will require time and effort for the software to reach a degree of maturity that would satisfy mainstream users.
+
+            If you depend on proprietary mainstream mobile messenger applications, banking applications, use loyalty or travel apps, consume DRM media, or play mobile video games on your fruit or Android smartphone, then the PinePhone Pro is likely not for you.
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="5">
+        <idProgetto>1</idProgetto>
+        <testo>
+            How’s the performance?
+
+            Tasks such as opening applications, browsing the internet, interacting with the user interface or watching videos are on par with recent mid-range Android smartphones. Many of you will also be happy to hear that native Linux games as well as popular retro game emulators work great on the PinePhone Pro – be it SuperTuxKart, PSP, or Dreamcast emulation, you’ll be in for a treat. 
+
+            When docked and connected to an external monitor and keyboard and mouse, the PinePhone Pro performs well when surfing the web, using the terminal or an office suite, watching 1080p videos, and even in light photo editing. The perfect pocketable Linux computer on the go.
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="6">
+        <idProgetto>1</idProgetto>
+        <testo>
+            What’s the availability like?
+
+            We have started taking PinePhone Pro pre-orders from developers on October 15, 2021, and expect to have them delivered by December this year.
+
+            We have also secured the necessary components and factory floor-time to produce a large production run of the PinePhone Pro in November; we’re calling it the Explorer Edition. If everything goes according to plan, early adopters will have their Explorer Edition units delivered in early 2022.
+
+            Subscribe to our blog, Telegram and Discord news feeds or follow us on Twitter and Mastodon to be notified when Explorer Edition becomes available.
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="7">
+        <idProgetto>1</idProgetto>
+        <testo>
+            What does it run? 
+
+            Openness means privacy and security as well as software choice. Just as the original PinePhone, the PinePhone Pro runs mainline Linux (with patches, which are being upstreamed) with open source drivers. 
+
+            The default operating system for the PinePhone Pro is Manjaro Linux with KDE Plasma Mobile, but we expect to see it supported by most of the operating systems already available for the original PinePhone. It is also likely that PinePhone Pro will give rise to new software options. We cannot wait to see what the community comes up with.
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="8">
+        <idProgetto>1</idProgetto>
+        <testo>
+            How do I join the project?
+
+            The PinePhone Pro boasts a large and vibrant community of developers, members of other mobile Linux projects and enthusiasts like yourself. We host an interconnected network of chats and forums which facilitate communication and cooperation. Everyone is welcome – join in!
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="9">
+        <idProgetto>2</idProgetto>
+        <testo>
+            Mechanism
+
+            Fusion reactions occur when two or more atomic nuclei come close enough for long enough that the nuclear force pulling them together exceeds the electrostatic force pushing them apart, fusing them into heavier nuclei. For nuclei heavier than iron-56, the reaction is endothermic, requiring an input of energy.[2] The heavy nuclei bigger than iron have many more protons resulting in a greater repulsive force. For nuclei lighter than iron-56, the reaction is exothermic, releasing energy when they fuse. Since hydrogen has a single proton in its nucleus, it requires the least effort to attain fusion, and yields the most net energy output. Also since it has one electron, hydrogen is the easiest fuel to fully ionize.
+
+            The strong force acts only over short distances (at most one femtometre, the diameter of one proton or neutron), while the repulsive electrostatic force between nuclei acts over longer distances. In order to undergo fusion, the fuel atoms need to be given enough kinetic energy to approach each other closely enough for the strong force to overcome the electrostatic repulsion. The amount of kinetic energy needed to bring the fuel atoms close enough is known as the "Coulomb barrier". Ways of providing this energy include speeding up atoms in a particle accelerator, or heating them to high temperatures.
+
+            Once an atom is heated above its ionization energy, its electrons are stripped away, leaving just the bare nucleus. This process is known as ionization, and the resulting nucleus is known as an ion. The result is a hot cloud of ions and free electrons formerly attached to them known as plasma. Because the charges are separated, plasmas are electrically conductive and magnetically controllable. Many fusion devices take advantage of this to confine the particles as they are heated.
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="10">
+        <idProgetto>2</idProgetto>
+        <testo>
+            Cross section
+
+            A reaction's cross section, denoted σ, measures the probability that a fusion reaction will happen. This depends on the relative velocity of the two nuclei. Higher relative velocities generally increase the probability, but the probability begins to decrease again at very high energies.[3]
+
+            In a plasma, particle velocity can be characterized using a probability distribution. If the plasma is thermalized, the distribution looks like a Gaussian curve, or Maxwell–Boltzmann distribution. In this case, it is useful to use the average particle cross section over the velocity distribution. This is entered into the volumetric fusion rate:[4]
+
+                P fusion = n A n B ⟨ σ v A , B ⟩ E fusion {\displaystyle P_{\text{fusion}}=n_{A}n_{B}\langle \sigma v_{A,B}\rangle E_{\text{fusion}}} P_{\text{fusion}}=n_{A}n_{B}\langle \sigma v_{A,B}\rangle E_{\text{fusion}}
+
+            where:
+
+                P fusion {\displaystyle P_{\text{fusion}}} P_{\text{fusion}} is the energy made by fusion, per time and volume
+                n is the number density of species A or B, of the particles in the volume
+                ⟨ σ v A , B ⟩ {\displaystyle \langle \sigma v_{A,B}\rangle } \langle \sigma v_{A,B}\rangle is the cross section of that reaction, average over all the velocities of the two species v
+                E fusion {\displaystyle E_{\text{fusion}}} E_{\text{fusion}} is the energy released by that fusion reaction.
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="11">
+        <idProgetto>2</idProgetto>
+        <testo>
+            Lawson criterion
+
+            The Lawson criterion shows how energy output varies with temperature, density, speed of collision for any given fuel. This equation was central to John Lawson's analysis of fusion working with a hot plasma. Lawson assumed an energy balance, shown below.[4]
+
+                P out = η capture ( P fusion − P conduction − P radiation ) {\displaystyle P_{\text{out}}=\eta _{\text{capture}}\left(P_{\text{fusion}}-P_{\text{conduction}}-P_{\text{radiation}}\right)} P_\text{out} = \eta_\text{capture}\left(P_\text{fusion} - P_\text{conduction} - P_\text{radiation}\right)
+
+            where:
+
+                P out {\displaystyle P_{\text{out}}} P_{{\text{out}}} is the net power from fusion
+                η capture {\displaystyle \eta _{\text{capture}}} {\displaystyle \eta _{\text{capture}}} is the efficiency of capturing the output of the fusion
+                P fusion {\displaystyle P_{\text{fusion}}} P_{\text{fusion}} is the rate of energy generated by the fusion reactions
+                P conduction {\displaystyle P_{\text{conduction}}} {\displaystyle P_{\text{conduction}}} is the conduction losses as energetic mass leaves the plasma
+                P radiation {\displaystyle P_{\text{radiation}}} {\displaystyle P_{\text{radiation}}} is the radiation losses as energy leaves as light.
+
+            Plasma clouds lose energy through conduction and radiation.[4] Conduction occurs when ions, electrons, or neutrals impact other substances, typically a surface of the device, and transfer a portion of their kinetic energy to the other atoms. Radiation is energy that leaves the cloud as light. Radiation increases with temperature. Fusion power technologies must overcome these losses. 
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="12">
+        <idProgetto>2</idProgetto>
+        <testo>
+            Triple product: density, temperature, time
+
+            The Lawson criterion argues that a machine holding a thermalized and quasi-neutral plasma has to generate enough energy to overcome its energy losses. The amount of energy released in a given volume is a function of the temperature, and thus the reaction rate on a per-particle basis, the density of particles within that volume, and finally the confinement time, the length of time that energy stays within the volume.[4][5] This is known as the "triple product": the plasma density, temperature, and confinement time.[6]
+
+            In magnetic confinement, the density is low, on the order of a "good vacuum". For instance, in the ITER device the fuel density is about 10 x 1019, which is about one-millionth atmospheric density.[7] This means that the temperature and/or confinement time must increase. Fusion-relevant temperatures have been achieved using a variety of heating methods that were developed in the early 1970s. In modern machines, as of 2019, the major remaining issue was the confinement time. Plasmas in strong magnetic fields are subject to a number of inherent instabilities, which must be suppressed to reach useful durations. One way to do this is to simply make the reactor volume larger, which reduces the rate of leakage due to classical diffusion. This is why ITER is so large.
+
+            In contrast, inertial confinement systems approach useful triple product values via higher density, and have short confinement intervals. In NIF, the initial frozen hydrogen fuel load has a density less than water that is increased to about 100 times the density of lead. In these conditions, the rate of fusion is so high that the fuel fuses in the microseconds it takes for the heat generated by the reactions to blow the fuel apart. Although NIF is also large, this is a function of its "driver" design, not inherent to the fusion process. 
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="13">
+        <idProgetto>2</idProgetto>
+        <testo>
+            Energy capture
+
+            Multiple approaches have been proposed to capture the energy that fusion produces. The simplest is to heat a fluid. The commonly targeted D-T reaction releases much of its energy as fast-moving neutrons. Electrically neutral, the neutron is unaffected by the confinement scheme. In most designs, it is captured in a thick "blanket" of lithium surrounding the reactor core. When struck by a high-energy neutron, the blanket heats up. It is then actively cooled with a working fluid that drives a turbine to produce power.
+
+            Another design proposed to use the neutrons to breed fission fuel in a blanket of nuclear waste, a concept known as a fission-fusion hybrid. In these systems, the power output is enhanced by the fission events, and power is extracted using systems like those in conventional fission reactors.[8]
+
+            Designs that use other fuels, notably the proton-boron aneutronic fusion reaction, release much more of their energy in the form of charged particles. In these cases, power extraction systems based on the movement of these charges are possible. Direct energy conversion was developed at Lawrence Livermore National Laboratory (LLNL) in the 1980s as a method to maintain a voltage directly using fusion reaction products. This has demonstrated energy capture efficiency of 48 percent.[9]
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="14">
+        <idProgetto>3</idProgetto>
+        <testo>
+            History
+
+            Slat proposed the cleanup project and supporting system in 2012. In October, Slat outlined the project in a TED-talk. The initial design consisted of long, floating barriers fixed to the seabed, attached to a central platform shaped like a manta ray for stability. The barriers would direct the floating plastic to the central platform, which would remove the plastic from the water. Slat did not specify the dimensions of this system in the talk.
+
+            In January, extreme flooding broke the barrier of Interceptor 001 in Jakarta. Although this was part of the design to reduce the force on the whole structure, the barrier was replaced with a newer model that has a stronger screen, simpler design, and an adjustable better-defined weak link.
+
+            On October 24, they launched their first product made from plastic from the Great Pacific Garbage Patch (GPGP), The Ocean Cleanup sunglasses, with funding going to their continued cleanup. They worked with DNV GL to develop a certification for plastic from water sources and the sunglasses were certified to originate from the GPGP.
+
+            In July 2021, a new design called System 002, also known as Jenny, was deployed in the Great Pacific Garbage Patch for testing.[62] In October, the organization announced that the system had gathered 28,000 kilograms (62,000 lb) of trash. In October, the project announced plans for System 003, which will span 2.5 km (1.6 mi).
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="15">
+        <idProgetto>3</idProgetto>
+        <testo>
+            Design
+
+            The latest Jenny design uses a towed, floating structure. The structure acts as a containment boom. A permeable screen underneath the float catches subsurface debris.[62] It incorporated an 800 m (2,600 ft) barrier and added active propulsion to allow the system to operate at higher speed. Crewed boats tow the U-shaped barrier through the water at 1.5 knots. The ship can also be steered to areas with higher waste densities.
+            
+            The Interceptor is a solar-powered, automated system designed to capture and extract waste. Along with an optimized water flow path, a barrier guides rubbish towards the opening of the Interceptor and onto the conveyor belt, which delivers waste to the shuttle. The shuttle deposits the waste equally into one of six bins according to sensors. When the bins are almost full, local operators are informed with an automated message, who then empty them and send the waste to local waste management facilities.
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="16">
+        <idProgetto>3</idProgetto>
+        <testo>
+            Research
+            Oceanic expeditions
+
+            On March 22, 2018, The Ocean Cleanup published a paper in Scientific Reports, summarizing the combined findings from the Mega- and Aerial Expedition. They estimate that the Patch contains 1.8 trillion pieces of floating plastic, with a total mass of 79,000 metric tonnes. Microplastics make up 94% of the pieces, accounting for 8% of the mass. The study suggests that the amount of plastic in the patch increased exponentially since 1970.
+
+            In September 2019, they published a paper in Scientific Reports looking into the explanation of why emissions into the ocean are higher than the debris accumulated at the surface layer of the ocean. They argue that debris circulation dynamics can offer an explanation for this missing plastic and suggest that there is a significant amount of time between the initial emissions and accumulation offshore. The study indicates that current microplastics are mostly a result of the degradations of plastic produced in the 1990s or before.
+
+            In May 2020, they released a paper in Scientific Reports showing that part of the plastic at the surface of the Great Pacific Garbage Patch is breaking down into microplastics and sinking to the deep sea. Most debris is still found at the surface, with 90% in the first 5 meters.
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="17">
+        <idProgetto>3</idProgetto>
+        <testo>
+            Funding
+
+            The Ocean Cleanup is mainly funded by donations and in-kind sponsors, including Maersk, Salesforce.com chief executive Marc Benioff, Julius Baer Foundation and Royal DSM. The Ocean Cleanup raised over 2 million USD with the help of a crowdfunding campaign in 2014.
+
+            In October 2020, they unveiled their first product made from plastic certified from the Great Pacific Garbage Patch, The Ocean Cleanup sunglasses, to help fund the continuation of the cleanup.
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="18">
+        <idProgetto>4</idProgetto>
+        <testo>
+            Concepts
+
+            In November 2005, SpaceX first referenced a concept with some capabilities of Starship. The rocket was going to have a larger version of the Merlin engine called Merlin 2 would be able to lift about 100 t (220,000 lb) to low Earth orbit. However, the rocket was not mentioned to be reusable.[9] The company had additional plans for another rocket called the Mars Colonial Transporter.
+
+            In September 2017, Musk announced a revision to the rocket design and renamed it the Big Falcon Rocket. It was planned to be 106 m (348 ft) tall and 9 m (30 ft) wide, able to launch a reduced 150 t (330,000 lb) to low Earth orbit. Its ultimate purpose, however, was still to ferry crew to Mars.[15] After the talk, Musk clarified on Reddit that the delta wing heat shield on the spacecraft was not to induce lift, but for orientation control.
+
+            In September 2018, the dearMoon project funded by Japanese billionaire Yusaku Maezawa was announced. Maezawa, along with six to eight other artists, would fly a free-return trajectory around the Moon, and create artworks in the process. There, Musk presented a revised design for the rocket that was 106 m (348 ft) tall and the same 9 m (30 ft) wide. Its spacecraft would have two forward flaps at the top and three aft flaps at the bottom, along with seven Raptor engines. The flaps are used to control the spacecraft's descent and the bottom ones can also be used as landing legs. Two months later, in November 2018, the booster was first termed Super Heavy and the spacecraft was renamed Starship.
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="19">
+        <idProgetto>4</idProgetto>
+        <testo>
+            Low-altitude flights
+
+            The first prototype to operate a Raptor engine was the Starhopper.[19] It had three large non-retractable legs,[20] and was noticeably shorter than a normal Starship spacecraft. The craft performed two tethered hops in early April 2019 and hopped untethered up to 20–30 m (70–100 ft) two months later, doing a controlled hover at a low speed.[21] In August 2019, the vehicle hopped to 150 m (500 ft) and traveled to the landing pad 100 m (300 ft) away.[22] As of August 2021, the vehicle has been retired and was repurposed for radio communication, weather, ground station, and a water tank at Starbase.
+
+            In January 2020, SpaceX purchased two drilling rigs from Valaris plc for $3.5 million each during their bankruptcy proceedings and planned to repurpose them as offshore spaceports.[27] After the Mk prefix, SpaceX named subsequent prototypes with the prefix SN.
+
+            In June 2020, SpaceX began construction on an orbital launch pad.[29] Around the time, Starship SN5 was built, the lack of flaps or nose cone giving it a distinctive cylindrical shape. The test vehicle only consisted of one Raptor engine, full-size propellant tanks, and a mass on top. SN5 performed a 150 m (500 ft)-high flight on 5 August 2020, successfully landing on a nearby pad.[30] On 3 September, Starship SN6 with a similar structure to Starship SN5 repeated the hop.[31] A week later, SpaceX pressure stress-tested SN7.1 tank that first made use of SAE 304L stainless steel grade, instead of the old SAE 301 stainless steel grade in prior prototypes.[32] In the same September, the company first fired its Raptor Vacuum engine.
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="20">
+        <idProgetto>4</idProgetto>
+        <testo>
+            High-altitude flights
+
+            SN8 was the first complete Starship prototype and underwent four static fire tests between October and November 2020. The third test ingested fragments of pad material into engine internals, causing an earlier shutdown.[20] The fourth test was successful, and on 9 December 2020 SN8 flew, reaching an altitude of 12.5 km (7.8 mi) before performing the belly flop maneuver.
+
+            In March 2021, the company submitted a public construction plan, which would have two sub-orbital launch pads, two orbital launch pads, two landing pads, two test stands, and a large tank farm that stores propellant. The company proposed the incorporation of surrounding Boca Chica Village into a city named Starbase, raising concerns about SpaceX's authority, power, and potential abuse for eviction.
+            
+            In early April 2021, the first tank was placed into the fuel farm for the first orbital launch pad.[29] During the same time, NASA selected Starship HLS as the crewed lunar lander.[42] The decision was disputed by Blue Origin and sparked a six-month-long dispute, titled Blue Origin v. United States and Space Exploration Technologies Corp.[43] SN12, SN13, and SN14 were not fully assembled. Instead, various improvements to the vehicle structure, software, and engines were featured on SN15. The vehicle flew on 5 May 2021, did the same maneuvers as prior prototypes, and landed, completing the first successful mission.
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="21">
+        <idProgetto>4</idProgetto>
+        <testo>
+            Planned orbital launches
+
+            In July 2021, Super Heavy BN3 first fired three of its engines.[45] Super Heavy BN4 was the first that can mate to Starships, while Starship SN20 was the first to feature a body-tall heat shield, mostly made of black hexagonal heat tiles. A month later, Starship SN20 is stacked atop of Super Heavy BN4, the first pair of vehicles to be so stacked.[46] In October 2021, the catching mechanical arm was installed onto the first launch tower, forming the recovery system, and the last tank insulation cover was installed, marking the completion of the first tank farm.[29] On 26 November 2021, a day after Thanksgiving in the United States.
+
+            Two weeks later, just north of Launch Complex 39B, NASA announced the new Launch Complex 49 that will launch Starship at the Kennedy Space Center.[48] In February 2022, Musk gave a presentation on Starship development at Starbase.
+
+            SpaceX explained the planned trajectory of the first orbital flight of the Starship system in a report sent to the Federal Communications Commission. The rocket is planned to launch from Starbase, then Super Heavy will separate and perform a soft water landing around 30 km (20 mi) from the Texan shoreline. The spacecraft will continue flying with its ground track passing through the Straits of Florida, and then softly land in the Pacific Ocean around 100 km (60 mi) northwest of Kauai in the Hawaiian Islands. The whole spaceflight will last ninety minutes.
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="22">
+        <idProgetto>4</idProgetto>
+        <testo>
+            Description
+
+            Super Heavy is a booster or first stage, located at the bottom of the rocket. The booster measures 70 m (230 ft) tall,[56] housing up to 33 sea level-optimized Raptor engines. The engine cluster may be more than twice as powerful as the Saturn V.[67] The booster's tanks can hold 3,600 t (7,900,000 lb) of propellant, consisting of 2,800 t (6,200,000 lb) of liquid oxygen and 800 t (1,800,000 lb) of liquid methane.[68] Without propellant, Super Heavy's dry mass is estimated to range between 160 t (350,000 lb) to 200 t (440,000 lb). Of which, the tanks weighs 80 t (180,000 lb), the interstage between the booster and spacecraft weigh 20 t (44,000 lb), and all the engines and mounts weigh 2 t (4,400 lb).
+
+            Then, after some time during launch, the stages separate via the conservation of angular momentum.The booster flips its orientation and turns on its center engine cluster returning to the launch site, followed by a controlled descent and landing burn. For landing on bodies without an atmosphere like the Moon, Starship turns on its engines and thrusters to slow down and land.[73] For other bodies with an atmosphere like Mars, Starship slows down by entering the atmosphere, protected by a heat shield.
+
+            During landing, both liquid methane and oxygen header tank are used to feed the Raptor engines. A pseudospectral optimal control algorithm predicted that the landing flip may make Starship overshoot the landing point by 100 m (300 ft).The spacecraft's landing may make more than 60 dBA at Brownsville, similar to Super Heavy landing's noise level and considerably lower than rocket liftoff.
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="23">
+        <idProgetto>4</idProgetto>
+        <testo>
+            Applications
+
+            Starship launch cost estimates vary widely, ranging from Musk's $2 million per launch to a satellite market analyst's $10 million. It is hoped that this lower launch cost would be accomplished by Starship's reusability, expanding space access to more types of payloads and entities.
+
+            SpaceX has stated its goal is to colonize Mars for the long-term survival of the human species. At the time, its purpose was to stimulate the space market and increase NASA's budget.[98] The final possible goal of the program is to send a million people to Mars by 2050, with a thousand Starships sent during a Mars launch window.[99]
+            Although Musk said that the company may land the first humans on Mars before 2026, the goal is considered optimistic. Furthermore, SpaceX has not stated plans for life-support systems, radiation protection, and in situ resource utilization, even though they are essential for colonizing space.
+
+            The Sabatier reaction may be used to create liquid methane and liquid oxygen on Mars in a power-to-gas plant, fueling return missions.[64] The reaction works by exposing carbon dioxide and hydrogen to a catalyst at temperatures above 375 °C (700 °F) at high pressure. Carbon dioxide and hydrogen gas can be obtained from Mars's atmosphere and ice, while the catalyst used may be nickel or ruthenium. The reaction is very energy inefficient, requiring an extensive thermal management system, and the resultant methane must be purified before use.
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="24">
+        <idProgetto>5</idProgetto>
+        <testo>
+            Amplifier progress
+
+            Recent studies have developed the first ideas for 6G. A group based at the University of California, Santa Barbara has claimed significant progress by building a device that can speed up the process of development and save substantial amounts of time during the design phase. They reported on key aspects of the device, including an n-polar gallium nitride high-electron-mobility transistor (HEMT), in two papers which were published in IEEE Electron Device Letters.[13][14] The presence of this change in the transistor gives the device the ability to operate at high frequencies, because the electrons are free to move quickly through it without obstruction.
+
+            In 2020, scientists from the Nanyang Technological University in Singapore and Osaka University in Japan announced they had created a chip for terahertz (THz) waves, which might be used in 6G.[3]
+            In October 2020, the Alliance for Telecommunications Industry Solutions (ATIS) launched a Next G Alliance, an alliance consisting of ATandT, Ericsson, Telus, Verizon, T-Mobile, Microsoft, Samsung, and others that will advance North American mobile technology leadership in 6G and beyond over the next decade.
+
+            In January 2022, Purple Mountain Laboratories of China claimed that its research team had achieved a world record of 206.25 gigabits per second (Gbit/s) data rate for the first time in a lab environment within the terahertz frequency band which is supposed to be the base of 6G cellular technology
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="25">
+        <idProgetto>5</idProgetto>
+        <testo>
+            Test satellite launch
+
+            On November 6, 2020, China successfully launched an experimental test satellite with candidates for 6G technology into orbit, along with 12 other satellites, using a Long March 6 launch vehicle rocket. The satellite is intended to verify the terahertz (THz) communication technology in space, according to the Global Times newspaper.
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="26">
+        <idProgetto>5</idProgetto>
+        <testo>
+            Expectations
+
+            Recent academic articles have been conceptualizing 6G and new features that may be included. AI is included in many of these predictions, from 6G supporting AI infrastructure to AI designing and optimizing 6G architectures, protocols, and operations.[20] Another study in Nature Electronics looks to provide a framework for 6G research stating We suggest that human-centric mobile communications will still be the most important application of 6G and the 6G network should be human-centric. Thus, high security, secrecy and privacy should be key features of 6G and should be given particular attention by the wireless research community.[21] The question of what frequencies 6G will operate on are still up to interpretation. A book published by Wiley (IEEE series) in December 2021 provides a snapshot of current international thinking on the major 6G research aspects. It states “Besides technologies and services, the business models of mobile communication networks are also evolving and will continue to evolve rapidly in the forthcoming years. Due to the ongoing fixed-mobile network convergence and ICT convergence, future communications will be tightly integrated in enterprise applications. The global rise of 5G campus networks should be considered just the start toward 5G enterprise networking and the emergence of new business models and ecosystems. This also raises questions on the role of international standards and rise of open software stacks paving the way toward a new telecommunications ecosystem, in which virtualized network functions from different developers and providers can be dynamically orchestrated and integrated in a secure, reliable, and energy-efficient manner.”
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="27">
+        <idProgetto>6</idProgetto>
+        <testo>
+            Reduce the impacts of climate change.
+
+            The report found that food production is responsible for up to 30% of total greenhouse gas emissions, with animal products accounting for about three-quarters of these effects. The report states that projections for the future show that “vegan and vegetarian diets were associated with the greatest reductions in greenhouse-gas emissions.” Other studies have backed this up. In one, researchers found that simply opting for beans instead of beef could help the United States reach its greenhouse gas reduction targets!
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="28">
+        <idProgetto>6</idProgetto>
+        <testo>
+            Save water.
+
+            Agriculture accounts for about 70% of freshwater use, making it “the world’s largest water-consuming sector.” Meat and dairy products lead the way in agricultural water use. Producing just one pound of beef requires 1,800 gallons of water (that’s the equivalent of about 100 showers for the average American!). Another study estimated that if the United States cut animal product consumption even by half, our food production would require 37% less water.
+        </testo>
+        <immagine>
+        </immagine>
+    </step>
+    <step id="29">
+        <idProgetto>6</idProgetto>
+        <testo>
+            Minimize agricultural land use.
+
+            The report found that agriculture occupies 40% of Earth’s ice-free landmass, noting that animal products have a large environmental footprint on our croplands. Another 2017 study projected that if Americans ate more beans and less beef, we could free up 42% of cropland!
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="30">
+        <idProgetto>6</idProgetto>
+        <testo>
+            Alleviate hunger.
+
+            Animal agriculture uses resources inefficiently. The report found that more than 820 million people around the world lack sufficient food. It also noted that “almost two thirds of all soybeans, maize, barley, and about a third of all grains are used as feed for animals.”
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="31">
+        <idProgetto>6</idProgetto>
+        <testo>
+            Save lives.
+
+            The Lancet report found that “unhealthy diets are the largest global burden of disease,” having surpassed even tobacco use as the leading cause of death and disease worldwide. Eating more plants and fewer animal products could prevent 10.9 to 11.6 million premature deaths from heart disease, diabetes, and other chronic conditions every year, according to the researchers.
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="32">
+        <idProgetto>7</idProgetto>
+        <testo>
+            Solar leasing
+            In 2008, SolarCity entered the solar leasing market with a new solar lease option for homeowners: leasing rooftop solar to customers who would pay no upfront costs. In exchange, customers paid for 20 years for power generated by those panels.[41] SolarCity's solar lease allowed some homeowners to pay less each month than they previously paid for electricity from the utility company. The "no-money-down solar" business model became the most popular in the U.S.[44] and increased installations, but it also added considerably to SolarCity's debt, accounting for about half of the company's over $3 billion debt in 2016.[45] The business model was also criticized by consumer advocates and government regulators.[46][47]
+
+            Commercial solar panels
+            In May 2008, SolarCity completed what was, at the time, the largest commercial solar installation in San Jose, at the North Campus of eBay; in July 2008, SolarCity completed what was, at the time, the largest commercial solar installation in San Francisco, for British Motor Car Distributors, consisting of 1,606 solar photovoltaic panels.[48][49] SolarCity introduced additional financing options for businesses in 2009[50] and built multiple solar projects for other large organizations including Walmart,[51][52] Intel,[53] and the U.S. military.[54] In 2013, the company established GivePower as a non-profit branch of its solar business, which is an independent enterprise.
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="33">
+        <idProgetto>7</idProgetto>
+        <testo>
+            Installation technology
+            SolarCity used proprietary mounting hardware that "snaps together" on rooftops eliminating the need for rails, and utilized skirts to hide the hardware and panel edges.[56][57][58] SolarCity acquired the mounting technology when it purchased Zep Solar in 2013. The "railless" system allowed installers to install solar panels on the roof more quickly than other installation approaches. Traditionally, solar panel installation had required workers to first outfit roofs with mounting rails and then attach solar panels to those rails. Tesla Energy continues to use the technology for its solar panel installations.
+
+            Energy efficiency evaluations and retrofits
+            In 2010, SolarCity acquired Building Solutions, a home energy audit firm, and began to offer energy efficiency evaluations and upgrades.[59] SolarCity worked with Admiral's Bank of Boston in March 2012 to make a new loan available to finance energy efficiency improvements[60] and expanded its energy efficiency services to the East Coast.
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="34">
+        <idProgetto>7</idProgetto>
+        <testo>
+            Electric vehicle chargers
+            In 2009, SolarCity entered the electric car charging business by buying the SolSource Energy business of Clean Fuel Connections, Inc.[62] In 2011, SolarCity announced a partnership with Rabobank to make electric car charging available for free to owners of Tesla Roadster cars traveling on U.S. Route 101 in California between San Francisco and Los Angeles.[63] In 2012, Tesla independently started deploying their own Supercharger stations.
+
+            SolarStrong project
+            SolarStrong was SolarCity's 5-year plan to build more than $1 billion in solar photovoltaic projects for privatized military housing communities across the United States. It was announced in late 2011. SolarStrong is being carried out by SolarCity in cooperation with Lend Lease Group involving 124 military bases in 33 states.[65][66][67] The financing is agreed with Bank of America Merrill Lynch, USRG Renewable Finance, and U.S. Bancorp.[65][68] It had a partial $344 million federal loan guarantee through the U.S. Department of Energy Financial Institution Partnership Program; however, the guarantee was withdrawn after the project implementation started. The project started in 2011 with development of the Joint Base Pearl Harbor–Hickam in Hawaii, followed by Davis–Monthan Air Force Base in Arizona.[65][68] In 2012, the project continued with the Los Angeles Air Force Base in California, and Peterson Air Force Base and Schriever Air Force Base in Colorado.
+
+            Energy storage
+            In 2016, SolarCity ran pilot project to test a grid backup resource by installing GridLogic software and 10-kilowatt-hour Tesla Powerwall battery packs in 500 California homes.[69][70][71] This concept was also tested in Vermont.
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="35">
+        <idProgetto>8</idProgetto>
+        <testo>
+            We are seaweed evangelists – on a mission to harness the revolutionary benefits of seaweed to Kelp the World.
+
+            Our impact mission is to enable the emerging seaweed industry by creating demand for sustainably-farmed seaweed. We do this by developing and creating products including all-natural nutraceuticals, food ingredients and bio-packaging materials for the super high-growth markets of plant-based foods and circular life cycle packaging.
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="36">
+        <idProgetto>8</idProgetto>
+        <testo>
+            PLANTING THE IDEA
+
+            It all started in the summer of 2018 when our Co-founders Karen and Charlie were introduced as a result of their shared passion for seaweed and its ability to contribute to people health and planet health. Karen wanted to make packaging from seaweed. Charlie knew they could do that but to generate maximum environmental, economic and societal benefits, they should also extract the nutritional value and utilise the whole plant. And that is how Oceanium and Oceanium’s biorefinery business model was born.
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="37">
+        <idProgetto>8</idProgetto>
+        <testo>
+            DRIVING POSITIVE CHANGE
+
+            Like seaweed, the business is growing fast. We are leaders in highly technical, macro-cascade seaweed biorefinery technology. Importantly, we are focusing on processing sustainably-farmed seaweed and are building relationships with farmers across the western hemisphere. We continue to progress RandD, register Intellectual Property and scale up our processing technology.
+
+            As the team expands to match our ambition, everyone’s unique skill sets, knowledge, and relationships will enable us to deliver our vision of becoming the world’s leading processor of sustainably-farmed seaweed and continue to create novel and innovative seaweed-based products for People Health and Planet Health.
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+    <step id="38">
+        <idProgetto>8</idProgetto>
+        <testo>
+            OUR MISSION
+            We are an impact business. Our mission is to develop and make seaweed-based products for people health and planet health.
+
+            OUR VISION
+            Integrate seaweed into our everyday lives for people health and planet health.
+        </testo>
+        <immagine>
+            <!-- img omessa -->
+        </immagine>
+    </step>
+</steps>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<giudiziProgetti xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="giudiziProgetti.xsd">
+    <giudizioProgetto id="1">
+        <idProgetto>1</idProgetto>
+        <idUtente>1</idUtente>
+        <voto>7</voto>
+        <testo>Davvero una bella idea fare uno smartphone opensource che funge anche da laptop con tutti i vantaggi del sistema operativo linux.</testo>
+    </giudizioProgetto>
+    <giudizioProgetto id="2">
+        <idProgetto>2</idProgetto>
+        <idUtente>1</idUtente>
+        <voto>7</voto>
+        <testo>That's a really long and ambitious project, I'm not sure it's well organised.</testo>
+    </giudizioProgetto>
+    <giudizioProgetto id="3">
+        <idProgetto>2</idProgetto>
+        <idUtente>2</idUtente>
+        <voto>8</voto>
+        <testo>Not bad, audace fortuna iuvat ;)</testo>
+    </giudizioProgetto>
+    <giudizioProgetto id="4">
+        <idProgetto>2</idProgetto>
+        <idUtente>3</idUtente>
+        <voto>9</voto>
+        <testo>Fusion Power Plant is the future, I really like and ethically approve this project!!</testo>
+    </giudizioProgetto>
+    <giudizioProgetto id="5">
+        <idProgetto>2</idProgetto>
+        <idUtente>4</idUtente>
+        <voto>6</voto>
+        <testo>Too long, we can't rely on this kind of energy...</testo>
+    </giudizioProgetto>
+    <giudizioProgetto id="6">
+        <idProgetto>2</idProgetto>
+        <idUtente>5</idUtente>
+        <voto>10</voto>
+        <testo>That's the best project I could ever find on this theme.</testo>
+    </giudizioProgetto>
+    <giudizioProgetto id="7">
+        <idProgetto>3</idProgetto>
+        <idUtente>6</idUtente>
+        <voto>6</voto>
+        <testo>Useful, but not innovative at all pff</testo>
+    </giudizioProgetto>
+    <giudizioProgetto id="8">
+        <idProgetto>3</idProgetto>
+        <idUtente>8</idUtente>
+        <voto>7</voto>
+        <testo>You should find sponsors and raise funds, the action must be taken quickly</testo>
+    </giudizioProgetto>
+    <giudizioProgetto id="9">
+        <idProgetto>3</idProgetto>
+        <idUtente>9</idUtente>
+        <voto>8</voto>
+        <testo>If not now, when? I like it.</testo>
+    </giudizioProgetto>
+    <giudizioProgetto id="10">
+        <idProgetto>4</idProgetto>
+        <idUtente>7</idUtente>
+        <voto>8</voto>
+        <testo>Still a lot of work to do by the way...</testo>
+    </giudizioProgetto>
+    <giudizioProgetto id="11">
+        <idProgetto>4</idProgetto>
+        <idUtente>10</idUtente>
+        <voto>9</voto>
+        <testo>Well structured, let's see how it develops hehe</testo>
+    </giudizioProgetto>
+    <giudizioProgetto id="12">
+        <idProgetto>5</idProgetto>
+        <idUtente>10</idUtente>
+        <voto>4</voto>
+        <testo>Can't we just slow down this rush for the fast internet?</testo>
+    </giudizioProgetto>
+    <giudizioProgetto id="13">
+        <idProgetto>5</idProgetto>
+        <idUtente>12</idUtente>
+        <voto>5</voto>
+        <testo>There are better and more green project we should invest time and money on.</testo>
+    </giudizioProgetto>
+    <giudizioProgetto id="14">
+        <idProgetto>5</idProgetto>
+        <idUtente>13</idUtente>
+        <voto>5</voto>
+        <testo>Not enough data</testo>
+    </giudizioProgetto>
+    <giudizioProgetto id="15">
+        <idProgetto>5</idProgetto>
+        <idUtente>14</idUtente>
+        <voto>6</voto>
+        <testo>Maybe we should first assure to have 5G everywhere and then think about the next generation of internet network</testo>
+    </giudizioProgetto>
+    <giudizioProgetto id="16">
+        <idProgetto>6</idProgetto>
+        <idUtente>11</idUtente>
+        <voto>9</voto>
+        <testo>Easy and full of pros!!</testo>
+    </giudizioProgetto>
+    <giudizioProgetto id="17">
+        <idProgetto>7</idProgetto>
+        <idUtente>15</idUtente>
+        <voto>3</voto>
+        <testo>There are thousands of similar projects... nothing to be enthusiast of</testo>
+    </giudizioProgetto>
+    <giudizioProgetto id="18">
+        <idProgetto>7</idProgetto>
+        <idUtente>16</idUtente>
+        <voto>4</voto>
+        <testo>Again... have you at least considered how dispose the old panels?</testo>
+    </giudizioProgetto>
+    <giudizioProgetto id="19">
+        <idProgetto>7</idProgetto>
+        <idUtente>17</idUtente>
+        <voto>5</voto>
+        <testo>Happy for the related discussion, it is useful for sure, but I'm not a big fun of the project</testo>
+    </giudizioProgetto>
+    <giudizioProgetto id="20">
+        <idProgetto>8</idProgetto>
+        <idUtente>18</idUtente>
+        <voto>3</voto>
+        <testo>Seaweed?? Is this all we can think of to solve our problems?!</testo>
+    </giudizioProgetto>
+</giudiziProgetti>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+    <xsd:element name="discussioni">
+        <xsd:complexType> 
+            <xsd:sequence>
+                <xsd:element ref="discussione" maxOccurs="unbounded" />
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+
+    <xsd:element name="discussione">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element ref="idProgetto" />
+                <xsd:element ref="titolo" />
+                <xsd:element ref="descrizione" />
+                <xsd:element ref="numCommenti" />
+            </xsd:sequence>
+
+            <xsd:attribute name="id" type="xsd:integer" use="id" />
+        </xsd:complexType>
+    </xsd:element>
+
+    <xsd:element name="idProgetto" type="xsd:integer" />
+    <xsd:element name="titolo" type="xsd:string" />
+    <xsd:element name="descrizione" type="xsd:string" />
+    <xsd:element name="numCommenti" type="xsd:integer" />
+
+</xsd:schema>

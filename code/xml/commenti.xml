@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commenti xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="commenti.xsd">
+    <commento id="1">
+        <idUtente>3</idUtente>
+        <idDiscussione>1</idDiscussione>
+        <testo>Cosa aspettate? Non vediamo l'ora di lavorare assieme a voi!</testo>
+        <dataOra>2022-01-10T23:03:12</dataOra>
+        <votoUtilitaMedia>1</votoUtilitaMedia>
+        <numVotiUtilita>1</numVotiUtilita>
+        <votoAffinitaMedia>5</votoAffinitaMedia>
+        <numVotiAffinita>1</numVotiAffinita>
+    </commento>
+    <commento id="2">
+        <idUtente>1</idUtente>
+        <idDiscussione>1</idDiscussione>
+        <testo>Non vedevo l'ora di un progetto di questa portata, zero hardware proprietario, zero software proprietario, privacy ottima e personalizzazione a livelli mai visti prima: wowww!</testo>
+        <dataOra>2022-01-10T23:12:44</dataOra>
+        <votoUtilitaMedia>1</votoUtilitaMedia>
+        <numVotiUtilita>2</numVotiUtilita>
+        <votoAffinitaMedia>4</votoAffinitaMedia>
+        <numVotiAffinita>2</numVotiAffinita>
+    </commento>
+    <commento id="3">
+        <idUtente>18</idUtente>
+        <idDiscussione>2</idDiscussione>
+        <testo>Woww! I love power plants *-*</testo>
+        <dataOra>2022-02-22T07:23:16</dataOra>
+        <votoUtilitaMedia>1</votoUtilitaMedia>
+        <numVotiUtilita>1</numVotiUtilita>
+        <votoAffinitaMedia>4</votoAffinitaMedia>
+        <numVotiAffinita>1</numVotiAffinita>
+    </commento>
+    <commento id="4">
+        <idUtente>12</idUtente>
+        <idDiscussione>2</idDiscussione>
+        <testo>Me too hahahah, both fission and fusion lol</testo>
+        <dataOra>2022-02-22T07:41:30</dataOra>
+        <votoUtilitaMedia>1</votoUtilitaMedia>
+        <numVotiUtilita>1</numVotiUtilita>
+        <votoAffinitaMedia>4</votoAffinitaMedia>
+        <numVotiAffinita>1</numVotiAffinita>
+    </commento>
+    <commento id="5">
+        <idUtente>10</idUtente>
+        <idDiscussione>2</idDiscussione>
+        <testo>tsk tsk...I suppose that's a good start...</testo>
+        <dataOra>2022-02-22T11:50:03</dataOra>
+        <votoUtilitaMedia>1</votoUtilitaMedia>
+        <numVotiUtilita>1</numVotiUtilita>
+        <votoAffinitaMedia>3</votoAffinitaMedia>
+        <numVotiAffinita>1</numVotiAffinita>
+    </commento>
+    <commento id="6">
+        <idUtente>18</idUtente>
+        <idDiscussione>2</idDiscussione>
+        <testo>Jokes apart... what's the estimated time in order to complete the project?</testo>
+        <dataOra>2022-02-22T11:51:14</dataOra>
+        <votoUtilitaMedia>4</votoUtilitaMedia>
+        <numVotiUtilita>1</numVotiUtilita>
+        <votoAffinitaMedia>4</votoAffinitaMedia>
+        <numVotiAffinita>1</numVotiAffinita>
+    </commento>
+    <commento id="7">
+        <idUtente>15</idUtente>
+        <idDiscussione>2</idDiscussione>
+        <testo>Well, that depends on various aspects, we hope it won't take more than two decades</testo>
+        <dataOra>2022-02-22T13:45:00</dataOra>
+        <votoUtilitaMedia>4</votoUtilitaMedia>
+        <numVotiUtilita>1</numVotiUtilita>
+        <votoAffinitaMedia>4</votoAffinitaMedia>
+        <numVotiAffinita>1</numVotiAffinita>
+    </commento>
+    <commento id="8">
+        <idUtente>17</idUtente>
+        <idDiscussione>3</idDiscussione>
+        <testo>Ionian sea??</testo>
+        <dataOra>2022-02-22T16:12:32</dataOra>
+        <votoUtilitaMedia>5</votoUtilitaMedia>
+        <numVotiUtilita>1</numVotiUtilita>
+        <votoAffinitaMedia>3</votoAffinitaMedia>
+        <numVotiAffinita>1</numVotiAffinita>
+    </commento>
+    <commento id="9">
+        <idUtente>7</idUtente>
+        <idDiscussione>3</idDiscussione>
+        <testo>Good idea! That's just in front of Taranto</testo>
+        <dataOra>2022-02-22T16:25:11</dataOra>
+        <votoUtilitaMedia>2</votoUtilitaMedia>
+        <numVotiUtilita>1</numVotiUtilita>
+        <votoAffinitaMedia>2</votoAffinitaMedia>
+        <numVotiAffinita>1</numVotiAffinita>
+    </commento>
+    <commento id="10">
+        <idUtente>16</idUtente>
+        <idDiscussione>3</idDiscussione>
+        <testo>Maybe also South China Sea because it's nearby Hong Kong</testo>
+        <dataOra>2022-02-22T17:34:43</dataOra>
+        <votoUtilitaMedia>5</votoUtilitaMedia>
+        <numVotiUtilita>1</numVotiUtilita>
+        <votoAffinitaMedia>4</votoAffinitaMedia>
+        <numVotiAffinita>1</numVotiAffinita>
+    </commento>
+    <commento id="11">
+        <idUtente>7</idUtente>
+        <idDiscussione>3</idDiscussione>
+        <testo>Yess, exactly!</testo>
+        <dataOra>2022-02-22T17:35:02</dataOra>
+        <votoUtilitaMedia>2</votoUtilitaMedia>
+        <numVotiUtilita>1</numVotiUtilita>
+        <votoAffinitaMedia>2</votoAffinitaMedia>
+        <numVotiAffinita>1</numVotiAffinita>
+    </commento>
+    <commento id="12">
+        <idUtente>11</idUtente>
+        <idDiscussione>3</idDiscussione>
+        <testo>Well, I suggest South Atlantic Ocean thought it's a really wide area...</testo>
+        <dataOra>2022-02-23T14:20:56</dataOra>
+        <votoUtilitaMedia>3</votoUtilitaMedia>
+        <numVotiUtilita>1</numVotiUtilita>
+        <votoAffinitaMedia>3</votoAffinitaMedia>
+        <numVotiAffinita>1</numVotiAffinita>
+    </commento>
+    <commento id="13">
+        <idUtente>7</idUtente>
+        <idDiscussione>3</idDiscussione>
+        <testo>Could you be more specific, please?</testo>
+        <dataOra>2022-02-23T14:55:32</dataOra>
+        <votoUtilitaMedia>3</votoUtilitaMedia>
+        <numVotiUtilita>1</numVotiUtilita>
+        <votoAffinitaMedia>4</votoAffinitaMedia>
+        <numVotiAffinita>1</numVotiAffinita>
+    </commento>
+    <commento id="14">
+        <idUtente>4</idUtente>
+        <idDiscussione>4</idDiscussione>
+        <testo>Sure the 'F' stands for Falcon??? Hahahahah</testo>
+        <dataOra>2022-02-22T09:22:13</dataOra>
+        <votoUtilitaMedia>1</votoUtilitaMedia>
+        <numVotiUtilita>1</numVotiUtilita>
+        <votoAffinitaMedia>5</votoAffinitaMedia>
+        <numVotiAffinita>1</numVotiAffinita>
+    </commento>
+    <commento id="15">
+        <idUtente>19</idUtente>
+        <idDiscussione>4</idDiscussione>
+        <testo>No way... pff</testo>
+        <dataOra>2022-02-22T09:23:26</dataOra>
+        <votoUtilitaMedia>1</votoUtilitaMedia>
+        <numVotiUtilita>1</numVotiUtilita>
+        <votoAffinitaMedia>4</votoAffinitaMedia>
+        <numVotiAffinita>1</numVotiAffinita>
+    </commento>
+    <commento id="16">
+        <idUtente>4</idUtente>
+        <idDiscussione>4</idDiscussione>
+        <testo>That was a good one, come on ;)</testo>
+        <dataOra>2022-02-22T09:23:58</dataOra>
+        <votoUtilitaMedia>1</votoUtilitaMedia>
+        <numVotiUtilita>1</numVotiUtilita>
+        <votoAffinitaMedia>5</votoAffinitaMedia>
+        <numVotiAffinita>1</numVotiAffinita>
+    </commento>
+    <commento id="17">
+        <idUtente>5</idUtente>
+        <idDiscussione>5</idDiscussione>
+        <testo>Real time surgery for sure!</testo>
+        <dataOra>2022-02-22T15:56:26</dataOra>
+        <votoUtilitaMedia>5</votoUtilitaMedia>
+        <numVotiUtilita>1</numVotiUtilita>
+        <votoAffinitaMedia>5</votoAffinitaMedia>
+        <numVotiAffinita>1</numVotiAffinita>
+    </commento>
+    <commento id="18">
+        <idUtente>7</idUtente>
+        <idDiscussione>6</idDiscussione>
+        <testo>Nothing hihi... I started the 3rd of Ge(Vega)nuary 2020 and never stopped</testo>
+        <dataOra>2022-02-22T20:07:38</dataOra>
+        <votoUtilitaMedia>2</votoUtilitaMedia>
+        <numVotiUtilita>1</numVotiUtilita>
+        <votoAffinitaMedia>5</votoAffinitaMedia>
+        <numVotiAffinita>1</numVotiAffinita>
+    </commento>
+    <commento id="19">
+        <idUtente>3</idUtente>
+        <idDiscussione>6</idDiscussione>
+        <testo>Well are there long term healthy problems? That's what I'm afraid of...</testo>
+        <dataOra>2022-02-22T20:13:00</dataOra>
+        <votoUtilitaMedia>4</votoUtilitaMedia>
+        <numVotiUtilita>1</numVotiUtilita>
+        <votoAffinitaMedia>1</votoAffinitaMedia>
+        <numVotiAffinita>1</numVotiAffinita>
+    </commento>
+    <commento id="20">
+        <idUtente>9</idUtente>
+        <idDiscussione>6</idDiscussione>
+        <testo>They say it's expensive, I don't money for it</testo>
+        <dataOra>2022-02-22T20:46:10</dataOra>
+        <votoUtilitaMedia>4</votoUtilitaMedia>
+        <numVotiUtilita>1</numVotiUtilita>
+        <votoAffinitaMedia>1</votoAffinitaMedia>
+        <numVotiAffinita>1</numVotiAffinita>
+    </commento>
+    <commento id="21">
+        <idUtente>8</idUtente>
+        <idDiscussione>6</idDiscussione>
+        <testo>The problem is that I love greek yogurt with honey :'(</testo>
+        <dataOra>2022-02-22T21:09:47</dataOra>
+        <votoUtilitaMedia>4</votoUtilitaMedia>
+        <numVotiUtilita>1</numVotiUtilita>
+        <votoAffinitaMedia>4</votoAffinitaMedia>
+        <numVotiAffinita>1</numVotiAffinita>
+    </commento>
+    <commento id="22">
+        <idUtente>6</idUtente>
+        <idDiscussione>8</idDiscussione>
+        <testo>Here we goooo!!</testo>
+        <dataOra>2022-02-22T16:05:07</dataOra>
+        <votoUtilitaMedia>1</votoUtilitaMedia>
+        <numVotiUtilita>1</numVotiUtilita>
+        <votoAffinitaMedia>3</votoAffinitaMedia>
+        <numVotiAffinita>1</numVotiAffinita>
+    </commento>
+    <commento id="23">
+        <idUtente>13</idUtente>
+        <idDiscussione>8</idDiscussione>
+        <testo>I know uses of (sea)weed very well...hehe</testo>
+        <dataOra>2022-02-22T16:36:52</dataOra>
+        <votoUtilitaMedia>1</votoUtilitaMedia>
+        <numVotiUtilita>1</numVotiUtilita>
+        <votoAffinitaMedia>5</votoAffinitaMedia>
+        <numVotiAffinita>1</numVotiAffinita>
+    </commento>
+    <commento id="24">
+        <idUtente>2</idUtente>
+        <idDiscussione>8</idDiscussione>
+        <testo>Ohh another nice fellow... could you just f*ck off in your misery????</testo>
+        <dataOra>2022-02-22T16:38:37</dataOra>
+        <votoUtilitaMedia>1</votoUtilitaMedia>
+        <numVotiUtilita>1</numVotiUtilita>
+        <votoAffinitaMedia>5</votoAffinitaMedia>
+        <numVotiAffinita>1</numVotiAffinita>
+    </commento>
+    <commento id="25">
+        <idUtente>13</idUtente>
+        <idDiscussione>8</idDiscussione>
+        <testo>It was just a joke, come on :D</testo>
+        <dataOra>2022-02-22T17:00:04</dataOra>
+        <votoUtilitaMedia>2</votoUtilitaMedia>
+        <numVotiUtilita>1</numVotiUtilita>
+        <votoAffinitaMedia>3</votoAffinitaMedia>
+        <numVotiAffinita>1</numVotiAffinita>
+    </commento>
+    <commento id="26">
+        <idUtente>13</idUtente>
+        <idDiscussione>8</idDiscussione>
+        <testo>And not one of my besties hahah</testo>
+        <dataOra>2022-02-22T17:13:31</dataOra>
+        <votoUtilitaMedia>1</votoUtilitaMedia>
+        <numVotiUtilita>1</numVotiUtilita>
+        <votoAffinitaMedia>2</votoAffinitaMedia>
+        <numVotiAffinita>1</numVotiAffinita>
+    </commento>
+    <commento id="27">
+        <idUtente>20</idUtente>
+        <idDiscussione>8</idDiscussione>
+        <testo>Lower methane production, biofuel, skincare, nutrition. These are just some of them.</testo>
+        <dataOra>2022-02-22T17:13:32</dataOra>
+        <votoUtilitaMedia>5</votoUtilitaMedia>
+        <numVotiUtilita>1</numVotiUtilita>
+        <votoAffinitaMedia>5</votoAffinitaMedia>
+        <numVotiAffinita>1</numVotiAffinita>
+    </commento>
+    <commento id="28">
+        <idUtente>12</idUtente>
+        <idDiscussione>8</idDiscussione>
+        <testo>That's exactly what we're looking for!</testo>
+        <dataOra>2022-02-22T17:20:17</dataOra>
+        <votoUtilitaMedia>3</votoUtilitaMedia>
+        <numVotiUtilita>1</numVotiUtilita>
+        <votoAffinitaMedia>3</votoAffinitaMedia>
+        <numVotiAffinita>1</numVotiAffinita>
+    </commento>
+</commenti>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+    <xsd:element name="progetti">
+        <xsd:complexType> 
+            <xsd:sequence>
+                <xsd:element ref="progetto" maxOccurs="unbounded" />
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+
+    <xsd:element name="progetto">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element ref="idResponsabile" />
+                <xsd:element ref="idDiscussione" />
+                <xsd:element ref="titolo" />
+                <xsd:element ref="descrizione" />
+                <xsd:element ref="categoria" />
+                <xsd:element ref="fotoComponenti" />
+                <xsd:element ref="fotoRisultato" />
+                <xsd:element ref="livelloDifficolta" />
+                <xsd:element ref="livelloTempoRichiesto" />
+                <xsd:element ref="livelloAutorizzazioneRichiesto" />
+                <xsd:element ref="giudizioProjMedio" />
+                <xsd:element ref="numGiudiziProj" />
+                <xsd:element ref="peso" />
+                <xsd:element ref="stato" />      
+            </xsd:sequence>
+
+            <xsd:attribute name="id" type="xsd:integer" use="id" />
+        </xsd:complexType>
+    </xsd:element>
+
+    <xsd:element name="idResponsabile" type="xsd:integer" />
+    <xsd:element name="idDiscussione" type="xsd:integer" />
+    <xsd:element name="titolo" type="xsd:string" />
+    <xsd:element name="descrizione" type="xsd:string" />
+    <xsd:element name="categoria" type="xsd:string">
+        <xsd:simpleType>
+            <xsd:restriction base="xsd:string">
+                <xsd:enumeration value="rinnovabile" />
+                <xsd:enumeration value="smaltimento" />
+                <xsd:enumeration value="salvaguardia" />
+                <xsd:enumeration value="spaziale" />
+                <xsd:enumeration value="gadget" />
+            </xsd:restriction>
+        </xsd:simpleType>
+    </xsd:element>
+    <xsd:element name="fotoComponenti" type="xsd:string" />
+    <xsd:element name="fotoRisultato" type="xsd:string" />
+    <xsd:element name="livelloDifficolta" type="xsd:integer">
+        <xsd:simpleType>
+            <xsd:restriction base="xsd:integer">
+                <xsd:minInclusive value="1" />
+                <xsd:maxInclusive value="5" />
+            </xsd:restriction>
+        </xsd:simpleType>
+    </xsd:element>
+    <xsd:element name="livelloTempoRichiesto" type="xsd:integer">
+        <xsd:simpleType>
+            <xsd:restriction base="xsd:integer">
+                <xsd:minInclusive value="1" />
+                <xsd:maxInclusive value="5" />
+            </xsd:restriction>
+        </xsd:simpleType>
+    </xsd:element>
+    <xsd:element name="livelloAutorizzazioneRichiesto" type="xsd:string">
+        <xsd:simpleType>
+            <xsd:restriction base="xsd:string">
+                <xsd:enumeration value="novizio" />
+                <xsd:enumeration value="principiante" />
+                <xsd:enumeration value="intermedio" />
+                <xsd:enumeration value="specialista" />
+                <xsd:enumeration value="innovatore" />
+            </xsd:restriction>
+        </xsd:simpleType>
+    </xsd:element>
+    <xsd:element name="giudizioProjMedio" type="xsd:integer">
+        <xsd:simpleType>
+            <xsd:restriction base="xsd:integer">
+                <xsd:minInclusive value="1" />
+                <xsd:maxInclusive value="10" />
+            </xsd:restriction>
+        </xsd:simpleType>
+    </xsd:element>
+    <xsd:element name="numGiudiziProj" type="xsd:integer" />
+    <xsd:element name="peso" type="xsd:string">
+        <xsd:simpleType>
+            <xsd:restriction base="xsd:string">
+                <xsd:enumeration value="comune" />
+                <xsd:enumeration value="popolare" />
+                <xsd:enumeration value="rivoluzionario" />
+            </xsd:restriction>
+        </xsd:simpleType>
+    </xsd:element>
+    <xsd:element name="stato" type="xsd:string">
+        <xsd:simpleType>
+            <xsd:restriction base="xsd:string">
+                <xsd:enumeration value="attivo" />
+                <xsd:enumeration value="sospeso" />
+            </xsd:restriction>
+        </xsd:simpleType>
+    </xsd:element>   
+
+</xsd:schema>

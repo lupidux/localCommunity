@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<progetti xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="progetti.xsd">
+    <progetto id="1">
+        <idResponsabile>3</idResponsabile>
+        <idDiscussione>1</idDiscussione>
+        <titolo>Phinephone Pro</titolo>
+        <descrizione>
+            The PHINE64 community is large, vibrant and diverse. Independent and partner-project developers, hackers and hardware enthusiasts, privacy advocates and FOSS geeks - you name it, we’ve got 'em all. They all contribute to the project thereby shaping it and determining its course. This page is community run, as is the Wiki, the chats as well as the forums.
+        </descrizione>
+        <categoria>gadget</categoria>
+        <fotoComponenti>
+            <!-- img omessa -->
+        </fotoComponenti>
+        <fotoRisultato>
+            <!-- img omessa -->
+        </fotoRisultato>
+        <livelloDifficolta>4</livelloDifficolta>
+        <livelloTempoRichiesto>3</livelloTempoRichiesto>
+        <livelloAutorizzazioneRichiesto>novizio</livelloAutorizzazioneRichiesto>
+        <giudizioProjMedio>7</giudizioProjMedio>
+        <numGiudiziProj>1</numGiudiziProj>
+        <peso>comune</peso>
+        <stato>attivo</stato>
+    </progetto>
+    <progetto id="2">
+        <idResponsabile>15</idResponsabile>
+        <idDiscussione>2</idDiscussione>
+        <titolo>Fusion Power Plant</titolo>
+        <descrizione>
+            Fusion power is a proposed form of power generation that would generate electricity by using heat from nuclear fusion reactions. In a fusion process, two lighter atomic nuclei combine to form a heavier nucleus, while releasing energy. Devices designed to harness this energy are known as fusion reactors.
+        </descrizione>
+        <categoria>rinnovabile</categoria>
+        <fotoComponenti>
+            <!-- img omessa -->
+        </fotoComponenti>
+        <fotoRisultato>
+            <!-- img omessa -->
+        </fotoRisultato>
+        <livelloDifficolta>5</livelloDifficolta>
+        <livelloTempoRichiesto>5</livelloTempoRichiesto>
+        <livelloAutorizzazioneRichiesto>specialista</livelloAutorizzazioneRichiesto>
+        <giudizioProjMedio>8</giudizioProjMedio>
+        <numGiudiziProj>5</numGiudiziProj>
+        <peso>popolare</peso>
+        <stato>attivo</stato>
+    </progetto>
+    <progetto id="3">
+        <idResponsabile>7</idResponsabile>
+        <idDiscussione>3</idDiscussione>
+        <titolo>The Oceans Cleanup</titolo>
+        <descrizione>
+            The Oceans Cleanup is a non-profit organization developing and scaling technologies to rid the oceans of plastic. To achieve this objective, we have to work on a combination of closing the source and cleaning up what has already accumulated in the ocean and doesn’t go away by itself. This goal means we plan to put ourselves out of business – once we have completed this project, our work is done.
+        </descrizione>
+        <categoria>smaltimento</categoria>
+        <fotoComponenti>
+            <!-- img omessa -->
+        </fotoComponenti>
+        <fotoRisultato>
+            <!-- img omessa -->
+        </fotoRisultato>
+        <livelloDifficolta>2</livelloDifficolta>
+        <livelloTempoRichiesto>2</livelloTempoRichiesto>
+        <livelloAutorizzazioneRichiesto>novizio</livelloAutorizzazioneRichiesto>
+        <giudizioProjMedio>7.5</giudizioProjMedio>
+        <numGiudiziProj>3</numGiudiziProj>
+        <peso>rivoluzionario</peso>
+        <stato>attivo</stato>
+    </progetto>
+    <progetto id="4">
+        <idResponsabile>2</idResponsabile>
+        <idDiscussione>4</idDiscussione>
+        <titolo>SpaceXXX Starship</titolo>
+        <descrizione>
+            Starship is a fully-reusable and super heavy-lift launch vehicle in development by SpaceXXX. Both of its stages – Super Heavy booster and Starship spacecraft – use liquid oxygen and liquid methane as propellant. Starship's main features are its very high payload mass capability and low potential operating cost. A tanker variant spacecraft is planned that will refuel other Starships in orbit, increasing the 100 t (220,000 lb) transport range to higher energy orbits and destinations, including the Moon and Mars. The earliest Starship variant will deploy satellites, while later variants will also serve space tourists, or be optimised for lunar landings. Starship's potentially low cost is key in enabling SpaceX's Mars ambitions as well as making point-to-point rocket travel on Earth possible.
+        </descrizione>
+        <categoria>spaziale</categoria>
+        <fotoComponenti>
+            <!-- img omessa -->
+        </fotoComponenti>
+        <fotoRisultato>
+            <!-- img omessa -->
+        </fotoRisultato>
+        <livelloDifficolta>5</livelloDifficolta>
+        <livelloTempoRichiesto>3</livelloTempoRichiesto>
+        <livelloAutorizzazioneRichiesto>intermedio</livelloAutorizzazioneRichiesto>
+        <giudizioProjMedio>8.5</giudizioProjMedio>
+        <numGiudiziProj>2</numGiudiziProj>
+        <peso>popolare</peso>
+        <stato>attivo</stato>
+    </progetto>
+    <progetto id="5">
+        <idResponsabile>11</idResponsabile>
+        <idDiscussione>5</idDiscussione>
+        <titolo>6G Network</titolo>
+        <descrizione>
+            In telecommunications, 6G is the sixth generation standard currently under development for wireless communications technologies supporting cellular data networks. It is the planned successor to 5G and will likely be significantly faster.[citation needed] Like its predecessors, 6G networks will probably be broadband cellular networks, in which the service area is divided into small geographical areas called cells. Several companies (Nokia, Ericsson, Huawei, Samsung, LG, Apple, Xiaomi), as well as several countries (China, India, Japan and Singapore), have shown interest in 6G networks.
+        </descrizione>
+        <categoria>gadget</categoria>
+        <fotoComponenti>
+            <!-- img omessa -->
+        </fotoComponenti>
+        <fotoRisultato>
+            <!-- img omessa -->
+        </fotoRisultato>
+        <livelloDifficolta>3</livelloDifficolta>
+        <livelloTempoRichiesto>2</livelloTempoRichiesto>
+        <livelloAutorizzazioneRichiesto>principiante</livelloAutorizzazioneRichiesto>
+        <giudizioProjMedio>5</giudizioProjMedio>
+        <numGiudiziProj>4</numGiudiziProj>
+        <peso>comune</peso>
+        <stato>attivo</stato>
+    </progetto>
+    <progetto id="6">
+        <idResponsabile>4</idResponsabile>
+        <idDiscussione>6</idDiscussione>
+        <titolo>GoVegan Revolution</titolo>
+        <descrizione>
+            Happy Earth Day! As the world marks the 52th anniversary of Earth Day, we’re celebrating with planet-friendly plant-based foods! Last year, leading scientific researchers published a report in The Lancet that looked at the links between diet, the environment, and human health. They found that simple choices we make every day can have profound positive effects! After reviewing the evidence, they concluded that a shift toward plant foods can go a long way in promoting human health and the health of our planet. The researchers found that eating more plants would help.
+        </descrizione>
+        <categoria>salvaguardia</categoria>
+        <fotoComponenti>
+            <!-- img omessa -->
+        </fotoComponenti>
+        <fotoRisultato>
+            <!-- img omessa -->
+        </fotoRisultato>
+        <livelloDifficolta>1</livelloDifficolta>
+        <livelloTempoRichiesto>2</livelloTempoRichiesto>
+        <livelloAutorizzazioneRichiesto>novizio</livelloAutorizzazioneRichiesto>
+        <giudizioProjMedio>9</giudizioProjMedio>
+        <numGiudiziProj>1</numGiudiziProj>
+        <peso>comune</peso>
+        <stato>attivo</stato>
+    </progetto>
+    <progetto id="7">
+        <idResponsabile>3</idResponsabile>
+        <idDiscussione>7</idDiscussione>
+        <titolo>SolarTown</titolo>
+        <descrizione>
+            SolarTown Corporation was a publicly traded company headquartered in Fremont, California that sold and installed solar energy generation systems as well as other related products and services to residential, commercial and industrial customers. The company was founded on July 4, 2006, by A, B, B, and A, the cousins of Tessla, Inc. CEO Boss Abba. Tessla acquired SolarTown in 2016, at a cost of approximately $2.6 billion and reorganized its solar business into Tessla Energy.
+        </descrizione>
+        <categoria>rinnovabile</categoria>
+        <fotoComponenti>
+            <!-- img omessa -->
+        </fotoComponenti>
+        <fotoRisultato>
+            <!-- img omessa -->
+        </fotoRisultato>
+        <livelloDifficolta>2</livelloDifficolta>
+        <livelloTempoRichiesto>3</livelloTempoRichiesto>
+        <livelloAutorizzazioneRichiesto>novizio</livelloAutorizzazioneRichiesto>
+        <giudizioProjMedio>4</giudizioProjMedio>
+        <numGiudiziProj>3</numGiudiziProj>
+        <peso>comune</peso>
+        <stato>attivo</stato>
+    </progetto>
+    <progetto id="8">
+        <idResponsabile>12</idResponsabile>
+        <idDiscussione>8</idDiscussione>
+        <titolo>Océanium</titolo>
+        <descrizione>
+            We develop innovative, all-natural products from sustainably-sourced seaweed. Our vision is to integrate seaweed into our everyday lives for People Health and Planet Health. We’re here to Kelp The World
+        </descrizione>
+        <categoria>salvaguardia</categoria>
+        <fotoComponenti>
+            <!-- img omessa -->
+        </fotoComponenti>
+        <fotoRisultato>
+            <!-- img omessa -->
+        </fotoRisultato>
+        <livelloDifficolta>3</livelloDifficolta>
+        <livelloTempoRichiesto>4</livelloTempoRichiesto>
+        <livelloAutorizzazioneRichiesto>novizio</livelloAutorizzazioneRichiesto>
+        <giudizioProjMedio>3</giudizioProjMedio>
+        <numGiudiziProj>1</numGiudiziProj>
+        <peso>comune</peso>
+        <stato>attivo</stato>
+    </progetto>
+</progetti>

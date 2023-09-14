@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reports xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="reports.xsd">
+    <report id="1">
+        <idUtente>1</idUtente>
+        <idModeratore>2</idModeratore>
+        <idOggetto>1</idOggetto>
+        <tipologia>progetto</tipologia>
+        <spiegazione>Il progetto ha notevolissime potenzialità *-*</spiegazione>
+        <natura>supporto</natura>
+    </report>
+    <report id="2">
+        <idUtente>18</idUtente>
+        <idModeratore>2</idModeratore>
+        <idOggetto>2</idOggetto>
+        <tipologia>progetto</tipologia>
+        <spiegazione>The project is identical to the European Fusion Power Plant in France!!</spiegazione>
+        <natura>plagio</natura>
+    </report>
+    <report id="3">
+        <idUtente>7</idUtente>
+        <idModeratore>2</idModeratore>
+        <idOggetto>4</idOggetto>
+        <tipologia>progetto</tipologia>
+        <spiegazione>Always looking forward without focusing on the present. We have our planet, we don't need another one.</spiegazione>
+        <natura>etica</natura>
+    </report>
+    <report id="4">
+        <idUtente>1</idUtente>
+        <idModeratore>2</idModeratore>
+        <idOggetto>1</idOggetto>
+        <tipologia>commento</tipologia>
+        <spiegazione>Dovete assolutamente dare rilievo a questo progetto, credo sia la svolta.</spiegazione>
+        <natura>supporto</natura>
+    </report>
+    <report id="5">
+        <idUtente>5</idUtente>
+        <idModeratore>2</idModeratore>
+        <idOggetto>14</idOggetto>
+        <tipologia>commento</tipologia>
+        <spiegazione>The writer of the comment has been swearing.</spiegazione>
+        <natura>volgarità</natura>
+    </report>
+    <report id="6">
+        <idUtente>17</idUtente>
+        <idModeratore>2</idModeratore>
+        <idOggetto>23</idOggetto>
+        <tipologia>commento</tipologia>
+        <spiegazione>There's a subtle reference to drugs.</spiegazione>
+        <natura>riferimento a droghe</natura>
+    </report>
+</reports>

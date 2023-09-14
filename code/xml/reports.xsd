@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+    <xsd:element name="reports">
+        <xsd:complexType> 
+            <xsd:sequence>
+                <xsd:element ref="report" maxOccurs="unbounded" />
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+
+    <xsd:element name="report">
+        <xsd:complexType>
+
+            <xsd:sequence>
+                <xsd:element ref="idUtente" />
+                <xsd:element ref="idModeratore" />
+                <xsd:element ref="idOggetto" />
+                <xsd:element ref="tipologia" />
+                <xsd:element ref="spiegazione" />
+                <xsd:element ref="natura" />
+            </xsd:sequence>
+
+            <xsd:attribute name="id" type="xsd:integer" use="id" />
+        </xsd:complexType>
+    </xsd:element>
+
+    <xsd:element name="idUtente" type="xsd:integer" />
+    <xsd:element name="idModeratore" type="xsd:integer" />
+    <xsd:element name="idOggetto" type="xsd:integer" />
+    <xsd:element name="tipologia" type="xsd:string">
+        <xsd:simpleType>
+            <xsd:restriction base="xsd:string">
+                <xsd:enumeration value="progetto" />
+                <xsd:enumeration value="commento" />
+            </xsd:restriction>
+        </xsd:simpleType>
+    </xsd:element>
+    <xsd:element name="spiegazione" type="xsd:string" />
+    <xsd:element name="natura" type="xsd:string" />
+
+</xsd:schema>

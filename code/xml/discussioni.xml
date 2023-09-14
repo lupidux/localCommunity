@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussioni xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="discussioni.xsd">
+    <discussione id="1">
+        <idProgetto>1</idProgetto>
+        <titolo>Phinephone Pro: Explorer Edition</titolo>
+        <descrizione>Si accettano suggerimenti da qualsiasi appassionato, sia tecnici che non, per lo sviluppo e l'ampliamento del progetto.</descrizione>
+        <numCommenti>2</numCommenti>
+    </discussione>
+    <discussione id="2">
+        <idProgetto>2</idProgetto>
+        <titolo>Joint European Thorus implementation</titolo>
+        <descrizione>We're working on the implementation of the biggest fusion power plant on earth for a clean and thriving future.</descrizione>
+        <numCommenti>5</numCommenti>
+    </discussione>
+    <discussione id="3">
+        <idProgetto>3</idProgetto>
+        <titolo>Goal: cleaning 300000km² of water. Where do we start?</titolo>
+        <descrizione>We need to select 10 sea areas to clean. Any suggestion? Consider they must be near to our support bases which are located in: Taranto (Itay), Cape Town (South Africa) and Hong Kong (China).</descrizione>
+        <numCommenti>6</numCommenti>
+    </discussione>
+    <discussione id="4">
+        <idProgetto>4</idProgetto>
+        <titolo>SpaceXXX Big Falcon Rocket assembling</titolo>
+        <descrizione>On our way to infinity and beyong. We're joyful to share this project with LocalCommunity and we're open-eared to suggenstion for our Big F***ing Rocket.</descrizione>
+        <numCommenti>3</numCommenti>
+    </discussione>
+    <discussione id="5">
+        <idProgetto>5</idProgetto>
+        <titolo>What could we do with a 6G Network?</titolo>
+        <descrizione>Survey on the useful applications of 6G Network. The 10 best ideas they'll be showed in a spot in order to raise funds.</descrizione>
+        <numCommenti>1</numCommenti>
+    </discussione>
+    <discussione id="6">
+        <idProgetto>6</idProgetto>
+        <titolo>Look beyond yourself, try vegan!</titolo>
+        <descrizione>What stops you from joining this lifestyle?</descrizione>
+        <numCommenti>4</numCommenti>
+    </discussione>
+    <discussione id="7">
+        <idProgetto>7</idProgetto>
+        <titolo>Solar panels, now cheap and easy to have</titolo>
+        <descrizione>Here we'll post all the informations you need to have access to government bonus for solar panels step by step.</descrizione>
+        <numCommenti>0</numCommenti>
+    </discussione>
+    <discussione id="8">
+        <idProgetto>8</idProgetto>
+        <titolo>Uses of seaweed you've never thougth of</titolo>
+        <descrizione>Seaweed is an extremely versatile raw material for several final products. We'll figure it out together in this discussion!</descrizione>
+        <numCommenti>7</numCommenti>
+    </discussione>
+</discussioni>

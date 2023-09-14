@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<giudiziCommenti xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="giudiziCommenti.xsd">
+    <giudizioCommento id="1">
+        <idCommento>1</idCommento>
+        <idUtente>1</idUtente>
+        <votoUtilita>1</votoUtilita>
+        <votoAffinita>5</votoAffinita>
+    </giudizioCommento>
+    <giudizioCommento id="2">
+        <idCommento>2</idCommento>
+        <idUtente>20</idUtente>
+        <votoUtilita>1</votoUtilita>
+        <votoAffinita>3</votoAffinita>
+    </giudizioCommento>
+    <giudizioCommento id="3">
+        <idCommento>2</idCommento>
+        <idUtente>19</idUtente>
+        <votoUtilita>1</votoUtilita>
+        <votoAffinita>5</votoAffinita>
+    </giudizioCommento>
+    <giudizioCommento id="4">
+        <idCommento>3</idCommento>
+        <idUtente>18</idUtente>
+        <votoUtilita>1</votoUtilita>
+        <votoAffinita>4</votoAffinita>
+    </giudizioCommento>
+    <giudizioCommento id="5">
+        <idCommento>4</idCommento>
+        <idUtente>17</idUtente>
+        <votoUtilita>1</votoUtilita>
+        <votoAffinita>4</votoAffinita>
+    </giudizioCommento>
+    <giudizioCommento id="6">
+        <idCommento>5</idCommento>
+        <idUtente>16</idUtente>
+        <votoUtilita>1</votoUtilita>
+        <votoAffinita>3</votoAffinita>
+    </giudizioCommento>
+    <giudizioCommento id="7">
+        <idCommento>6</idCommento>
+        <idUtente>15</idUtente>
+        <votoUtilita>4</votoUtilita>
+        <votoAffinita>4</votoAffinita>
+    </giudizioCommento>
+    <giudizioCommento id="8">
+        <idCommento>7</idCommento>
+        <idUtente>14</idUtente>
+        <votoUtilita>4</votoUtilita>
+        <votoAffinita>4</votoAffinita>
+    </giudizioCommento>
+    <giudizioCommento id="9">
+        <idCommento>8</idCommento>
+        <idUtente>13</idUtente>
+        <votoUtilita>5</votoUtilita>
+        <votoAffinita>3</votoAffinita>
+    </giudizioCommento>
+    <giudizioCommento id="10">
+        <idCommento>9</idCommento>
+        <idUtente>12</idUtente>
+        <votoUtilita>2</votoUtilita>
+        <votoAffinita>2</votoAffinita>
+    </giudizioCommento>
+    <giudizioCommento id="11">
+        <idCommento>10</idCommento>
+        <idUtente>11</idUtente>
+        <votoUtilita>5</votoUtilita>
+        <votoAffinita>4</votoAffinita>
+    </giudizioCommento>
+    <giudizioCommento id="12">
+        <idCommento>11</idCommento>
+        <idUtente>10</idUtente>
+        <votoUtilita>2</votoUtilita>
+        <votoAffinita>2</votoAffinita>
+    </giudizioCommento>
+    <giudizioCommento id="13">
+        <idCommento>12</idCommento>
+        <idUtente>9</idUtente>
+        <votoUtilita>3</votoUtilita>
+        <votoAffinita>3</votoAffinita>
+    </giudizioCommento>
+    <giudizioCommento id="14">
+        <idCommento>13</idCommento>
+        <idUtente>8</idUtente>
+        <votoUtilita>3</votoUtilita>
+        <votoAffinita>4</votoAffinita>
+    </giudizioCommento>
+    <giudizioCommento id="15">
+        <idCommento>14</idCommento>
+        <idUtente>7</idUtente>
+        <votoUtilita>1</votoUtilita>
+        <votoAffinita>5</votoAffinita>
+    </giudizioCommento>
+    <giudizioCommento id="16">
+        <idCommento>15</idCommento>
+        <idUtente>6</idUtente>
+        <votoUtilita>1</votoUtilita>
+        <votoAffinita>4</votoAffinita>
+    </giudizioCommento>
+    <giudizioCommento id="17">
+        <idCommento>16</idCommento>
+        <idUtente>5</idUtente>
+        <votoUtilita>1</votoUtilita>
+        <votoAffinita>5</votoAffinita>
+    </giudizioCommento>
+    <giudizioCommento id="18">
+        <idCommento>17</idCommento>
+        <idUtente>4</idUtente>
+        <votoUtilita>5</votoUtilita>
+        <votoAffinita>5</votoAffinita>
+    </giudizioCommento>
+    <giudizioCommento id="19">
+        <idCommento>18</idCommento>
+        <idUtente>3</idUtente>
+        <votoUtilita>2</votoUtilita>
+        <votoAffinita>5</votoAffinita>
+    </giudizioCommento>
+    <giudizioCommento id="20">
+        <idCommento>19</idCommento>
+        <idUtente>2</idUtente>
+        <votoUtilita>4</votoUtilita>
+        <votoAffinita>1</votoAffinita>
+    </giudizioCommento>
+    <giudizioCommento id="21">
+        <idCommento>20</idCommento>
+        <idUtente>1</idUtente>
+        <votoUtilita>4</votoUtilita>
+        <votoAffinita>1</votoAffinita>
+    </giudizioCommento>
+    <giudizioCommento id="22">
+        <idCommento>21</idCommento>
+        <idUtente>20</idUtente>
+        <votoUtilita>4</votoUtilita>
+        <votoAffinita>4</votoAffinita>
+    </giudizioCommento>
+    <giudizioCommento id="23">
+        <idCommento>22</idCommento>
+        <idUtente>19</idUtente>
+        <votoUtilita>1</votoUtilita>
+        <votoAffinita>3</votoAffinita>
+    </giudizioCommento>
+    <giudizioCommento id="24">
+        <idCommento>23</idCommento>
+        <idUtente>18</idUtente>
+        <votoUtilita>1</votoUtilita>
+        <votoAffinita>5</votoAffinita>
+    </giudizioCommento>
+    <giudizioCommento id="25">
+        <idCommento>24</idCommento>
+        <idUtente>17</idUtente>
+        <votoUtilita>1</votoUtilita>
+        <votoAffinita>5</votoAffinita>
+    </giudizioCommento>
+    <giudizioCommento id="26">
+        <idCommento>25</idCommento>
+        <idUtente>16</idUtente>
+        <votoUtilita>2</votoUtilita>
+        <votoAffinita>3</votoAffinita>
+    </giudizioCommento>
+    <giudizioCommento id="27">
+        <idCommento>26</idCommento>
+        <idUtente>15</idUtente>
+        <votoUtilita>1</votoUtilita>
+        <votoAffinita>2</votoAffinita>
+    </giudizioCommento>
+    <giudizioCommento id="28">
+        <idCommento>27</idCommento>
+        <idUtente>14</idUtente>
+        <votoUtilita>5</votoUtilita>
+        <votoAffinita>5</votoAffinita>
+    </giudizioCommento>
+    <giudizioCommento id="29">
+        <idCommento>28</idCommento>
+        <idUtente>13</idUtente>
+        <votoUtilita>3</votoUtilita>
+        <votoAffinita>3</votoAffinita>
+    </giudizioCommento>
+</giudiziCommenti>
